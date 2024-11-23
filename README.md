@@ -70,7 +70,7 @@ TresEnRaya/
 🔹1. Clona este repositorio:
 ```
 git clone https://github.com/tu-usuario/TresEnRaya.git
-cd calculator
+cd tresenraya
 ```
 
 🔹2. Instala las dependencias:
