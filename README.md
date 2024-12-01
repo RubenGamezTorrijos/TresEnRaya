@@ -1,8 +1,9 @@
 # 🎮**Tres en Raya: Java**
 ¡Bienvenido al proyecto Tres en Raya! 🎯 Este proyecto está desarrollado en Java con el editor Netbeans con el que podrán jugar diferentes 2 jugadores en modo local (sin conexión a internet) en lateral aparecen los participantes y quién ha ganado.
 
-![TresEnRaya_Java](https://user-images.githubusercontent.com/19588354/140736544-59df772c-18e2-4dde-be8b-3a423eac1478.jpg)
-![TresEnRaya_Java_Imagen](https://user-images.githubusercontent.com/19588354/140736546-b424749a-093e-4cff-b220-5f7ce4e0562a.jpg)
+|Inicio Tres en Raya|Empate Tres en Raya|
+|-------------------|-------------------|
+|![TresEnRaya_Java](https://user-images.githubusercontent.com/19588354/140736544-59df772c-18e2-4dde-be8b-3a423eac1478.jpg)|![TresEnRaya_Java_Imagen](https://user-images.githubusercontent.com/19588354/140736546-b424749a-093e-4cff-b220-5f7ce4e0562a.jpg)|
 
 
 ![Status](https://img.shields.io/badge/Estado-Producción-green?style=flat-square)
